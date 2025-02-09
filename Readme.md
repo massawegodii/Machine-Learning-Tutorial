@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ### Running Jupyter Notebooks
 To run the notebooks, start Jupyter Notebook with:
 ```bash
-jupyter notebook and google colab
+jupyter notebook
 ```
 Then navigate to the notebook you want to explore.
 
